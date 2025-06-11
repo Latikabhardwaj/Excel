@@ -30,11 +30,7 @@ This dashboard is ideal for:
 * Small Business Owners — to track product performance
 * Students — learning data visualization in Excel
 
- # Snapshot
- snapshot_amazon_dashboard.png
-
-
-
+ https://github.com/Latikabhardwaj/excel_dashboard-/blob/main/snapshot_amazon_dashboard.png
 
   
 
