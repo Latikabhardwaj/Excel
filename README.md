@@ -13,6 +13,7 @@ Designed a dynamic Amazon Sales Dashboard using Microsoft Excel to analyze and v
 * Clean and organized data layout
 * Interactive Pivot Tables for dynamic summaries
 * Custom Charts and Graphs for data visualization
+  
 📊 Charts:
 Sales by Product (bar chart)
 Sales by State (line chart)
@@ -20,6 +21,7 @@ Sales by Category (horizontal bar chart)
 Payment Method Distribution (pie chart)
 
 * Dashboard with slicers and filters for better insights
+  
 🎛️ Slicers: Filter dashboard by:-
 Order Status
 Product Category
