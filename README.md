@@ -26,9 +26,9 @@ Product Category
   
 # Use Case 
 This dashboard is ideal for:
- Aspiring Data Analysts — to showcase Excel skills
- Small Business Owners — to track product performance
- Students — learning data visualization in Excel
+* Aspiring Data Analysts — to showcase Excel skills
+* Small Business Owners — to track product performance
+* Students — learning data visualization in Excel
 
 
 
